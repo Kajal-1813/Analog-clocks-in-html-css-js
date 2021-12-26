@@ -1,0 +1,96 @@
+#clockcontainer {
+    position: absolute;
+    height: 27vw;
+    width: 45%;
+    background: url(clock.png) no-repeat;
+    background-size: 50%;
+    margin-right: 500px;
+    margin-left: 170px;
+    margin-top: 150px;
+}
+
+#hour1,
+#minute1,
+#second1 {
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+
+#hour1 {
+    width: 1.6%;
+    height: 21%;
+    top: 20%;
+    left: 24.3%;
+    opacity: 0.8;
+}
+
+#minute1 {
+    width: 1.6%;
+    height: 25%;
+    top: 17%;
+    left: 24.3%;
+    opacity: 0.8;
+}
+
+#second1 {
+    width: 1.4%;
+    height: 31%;
+    top: 9%;
+    left: 24%;
+    opacity: 0.8;
+}
+
+#clockcontainerrr {
+    position: absolute;
+    margin-left: auto;
+    height: 27vw;
+    width: 45%;
+    background: url(clock.png) no-repeat;
+    background-size: auto;
+    background-size: 50%;
+    margin-left: 760px;
+    margin-top: 150px;
+}
+
+#hour,
+#minute,
+#second {
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+
+#hour {
+    width: 1.6%;
+    height: 21%;
+    top: 20%;
+    left: 24.3%;
+    opacity: 0.8;
+}
+
+#minute {
+    width: 1.6%;
+    height: 25%;
+    top: 17%;
+    left: 24.3%;
+    opacity: 0.8;
+}
+
+#second {
+    width: 1.4%;
+    height: 31%;
+    top: 9%;
+    left: 24%;
+    opacity: 0.8;
+}
+
+t1 {
+    margin-left: 250px;
+}
+
+t2 {
+    margin-left: 850px;
+}
